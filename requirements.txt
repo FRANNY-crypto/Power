@@ -1,0 +1,18 @@
+matplotlib
+streamlit
+pandas a
+numpy
+matplotlib.pyplot
+seaborn
+matplotlib.dates
+geopandas
+matplotlib.colors 
+statsmodels.api 
+base64
+os
+plotly.express
+plotly.graph_objects
+scipy.stats 
+scipy.stats 
+sklearn.metrics 
+pickle
