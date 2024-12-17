@@ -1,18 +1,11 @@
-matplotlib
 streamlit
-pandas a
+pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
-matplotlib.dates
-geopandas
-matplotlib.colors 
-statsmodels.api 
-base64
-os
-plotly.express
-plotly.graph_objects
-scipy.stats 
-scipy.stats 
-sklearn.metrics 
-pickle
+statsmodels
+plotly
+shapely
+scipy
+scikit-learn
+prophet
